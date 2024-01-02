@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: crimson;
+  color: white;
+}
+
+.div1 {
+  margin: 10px;
+}
+
+.h2 {
+  background-color: brown;
+  padding: 5px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.p {
+  border: 5px dotted black;
+  margin-top: 5px;
+  padding: 5px;
+}
